@@ -50,3 +50,16 @@ a:visited {
 .header-img {
   width: auto;
 }
+
+a:link, a:active {
+  color: white;
+}
+a:visited {
+  color: yellow;
+}
+
+.btn {
+  color: #393E46;
+  background-color: #4ECCA3;
+  margin: 3% 0% 2%;
+}
