@@ -24,13 +24,3 @@ function diceRoll1() {
 		document.querySelector("p#david").innerHTML = "David <i class='far fa-meh'></i>";
 	}
 }
-
-// Boring, minimal code version:
-// 	if (randomNumber1 > randomNumber2) {
-// 		document.querySelector("h1").innerHTML = "<img class='header-img' src='images/trophy.png'> Player1 Wins!";
-// 	} else if (randomNumber2 > randomNumber1) {
-// 		document.querySelector("h1").innerHTML = "<img class='header-img' src='images/trophy.png'> Player2 wins!";
-// 	} else {
-// 		document.querySelector("h1").innerHTML = "<img class='header-img' src='images/indifferent.png'> Draw!";
-// 	}
-// }
