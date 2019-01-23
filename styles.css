@@ -38,7 +38,13 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+}
 
+a:link, a:active {
+  color: white;
+}
+a:visited {
+  color: yellow;
 }
 
 .header-img {
